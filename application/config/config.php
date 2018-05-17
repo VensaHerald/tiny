@@ -1,5 +1,5 @@
 <?php
-
+//test ignore
 /**
  * Configuration for: Error reporting
  * Useful to show every little problem during development, but only show hard errors in production
